@@ -1,7 +1,7 @@
 <div align="center">
     <h1>🔮 Mentalist.</h1>
 </div>
-<div>
+<div align="center">
     <p>
         <h3>
             Mais um projeto feito na Imersão Alura com algumas modificações que fiz no visual do projeto :) Projetinho para "adivinhar" número dado pela "máquina", bem divertido!
@@ -19,7 +19,6 @@
 
 ## 🌐Site 
   - [Mentalista](https://jehsbatista.github.io/Mentalist/)
-<br>
 
 ## ⚡ Tecnologia Utilizada
 - [**CSS**](https://www.w3.org/Style/CSS/)    [(*Documentação MDN*)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
