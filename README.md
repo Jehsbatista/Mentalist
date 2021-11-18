@@ -17,7 +17,7 @@
 <br> 
 <br> 
 
-## 🌐Site 
+## 🌐Local
   - [Mentalista](https://jehsbatista.github.io/Mentalist/)
 
 ## ⚡ Tecnologia Utilizada
